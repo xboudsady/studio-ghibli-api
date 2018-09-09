@@ -3,7 +3,7 @@
 Simple web application that retrieves data from 
 [Studio Ghibli API](https://ghibliapi.herokuapp.com) with JavaScript, and displays it on the front end of a website.
 
-Link to Site: 
+Link to Site: https://studio-ghibli-api.herokuapp.com/
 
 ## Technology Used
 
